@@ -1486,7 +1486,7 @@
     "m_ObjectId": "078b0a8f255c48b8b7efc2038031944d",
     "m_Title": "Peakness Normal Recalculate",
     "m_Position": {
-        "x": -320.0,
+        "x": -320.0001220703125,
         "y": -1239.0
     }
 }
@@ -2069,7 +2069,7 @@
     "m_ObjectId": "1834f4d233b5455ea7ad38027141231b",
     "m_Title": "Sine Normal Recalculate",
     "m_Position": {
-        "x": 255.0,
+        "x": 254.9999237060547,
         "y": -508.0
     }
 }
@@ -3212,7 +3212,7 @@
     "m_ObjectId": "3cbef8f5b64141c180f191f58b506c27",
     "m_Title": "Sine Displacement",
     "m_Position": {
-        "x": -208.0,
+        "x": -207.99993896484375,
         "y": 749.0
     }
 }
@@ -4069,8 +4069,8 @@
     "m_ObjectId": "634cb7223e4c4f388662179135f5f778",
     "m_Title": "Phase",
     "m_Position": {
-        "x": -1300.0,
-        "y": -97.0
+        "x": -1300.0001220703125,
+        "y": -96.99996948242188
     }
 }
 
@@ -7486,7 +7486,7 @@
     "m_Title": "Peak Displacement",
     "m_Position": {
         "x": -263.0,
-        "y": 23.0
+        "y": 23.000045776367188
     }
 }
 
@@ -7955,10 +7955,10 @@
     },
     "m_Slots": [
         {
-            "m_Id": "12a47ea4bf6b4f1f86592f32e60915f7"
+            "m_Id": "88f91fa6e0d0437bb6eb1c6c25983b16"
         },
         {
-            "m_Id": "88f91fa6e0d0437bb6eb1c6c25983b16"
+            "m_Id": "12a47ea4bf6b4f1f86592f32e60915f7"
         }
     ],
     "synonyms": [],
